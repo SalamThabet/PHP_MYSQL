@@ -1,0 +1,38 @@
+DataBase
+
+Content
+-id
+-catid
+-subCatid
+-title
+-content
+-url
+-createdata
+-publichData
+-fatureimage
+-userid
+
+users
+-id
+-name
+-email
+-password md5
+-active
+-role
+
+Category
+-id
+-category name
+-category description
+-catgory image
+
+subcat
+-id
+-catid
+-category name
+-category description
+-catgory image
+
+setting
+-name
+-value
