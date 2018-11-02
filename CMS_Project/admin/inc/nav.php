@@ -25,7 +25,7 @@
                       Category
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="catgory.php">View Categories</a>
+                      <a class="dropdown-item" href="category.php">View Categories</a>
                       <a class="dropdown-item" href="addcategory.php">Add Category</a>
                      
                     </div>
